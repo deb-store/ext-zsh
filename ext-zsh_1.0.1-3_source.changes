@@ -12,14 +12,14 @@ Changes:
  .
    * UPD: grml-team (grml.org).
 Checksums-Sha1:
- 8e8e5771d6b909427894d52a22f66599d11eafe5 1002 ext-zsh_1.0.1-3.dsc
+ c354d88190070f17f4022ff385fba194433c5c84 1002 ext-zsh_1.0.1-3.dsc
  bda29411804cd677c2a85dad67f0b7163cdcb616 796 ext-zsh_1.0.1-3.debian.tar.xz
- 5a1d7cd560b6223a656af8cebcb296e9c59ed7d2 4391 ext-zsh_1.0.1-3_source.buildinfo
+ 05326f60d7ae73a80d19eb5204a5bef52cdff910 4391 ext-zsh_1.0.1-3_source.buildinfo
 Checksums-Sha256:
- 3c42d47aacdf5ba36d697db4b9e74b5ed9fb48b0484f5a2f88178d60a1c9ad85 1002 ext-zsh_1.0.1-3.dsc
+ 7812c4ca7b7a2f87d442ba4b4bc167c7081d384814a6eb4ed0e3128a6ce7ebce 1002 ext-zsh_1.0.1-3.dsc
  eabe2fb246f947e1ade06fa41a140e306ee8460a24f01e3954668873b506fa45 796 ext-zsh_1.0.1-3.debian.tar.xz
- 6c184b1d13c2b42d6feb3bd24b409fdd29c24732789ded4762dea80ee5a1e946 4391 ext-zsh_1.0.1-3_source.buildinfo
+ 37710483a579e3466d283dcf5060dbac62e1ba3eea167fd8f75b88d4c9da3b90 4391 ext-zsh_1.0.1-3_source.buildinfo
 Files:
- c0da00bf05483e6dbe2c8b5cb31e1144 1002 admin optional ext-zsh_1.0.1-3.dsc
+ 81b8f631831db36eb8e4ca7519ac0a2b 1002 admin optional ext-zsh_1.0.1-3.dsc
  d0ea4abbf9884e396d58ef6be7c1bed3 796 admin optional ext-zsh_1.0.1-3.debian.tar.xz
- 28cd25f94c11bf52af43df54d95645a1 4391 admin optional ext-zsh_1.0.1-3_source.buildinfo
+ 5e8e1c4926cd9ab205407cfe3ccc33c2 4391 admin optional ext-zsh_1.0.1-3_source.buildinfo
