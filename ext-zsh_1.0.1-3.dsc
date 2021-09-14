@@ -13,11 +13,11 @@ Build-Depends: debhelper (>= 13), debhelper-compat (= 13)
 Package-List:
  ext-zsh deb admin optional arch=all
 Checksums-Sha1:
- d99d158109c9486247c2681ffed357041815cb6e 36512 ext-zsh_1.0.1.orig.tar.xz
+ 340eb6e169c709c90248000a4da33a8b45cef237 36508 ext-zsh_1.0.1.orig.tar.xz
  bda29411804cd677c2a85dad67f0b7163cdcb616 796 ext-zsh_1.0.1-3.debian.tar.xz
 Checksums-Sha256:
- 89ce9984e4c80722d9d12bbc30e806721e0c54ebfa1e6ae47ff24c8888062f81 36512 ext-zsh_1.0.1.orig.tar.xz
+ 97638569f61c7190565b0db54718baade6982c42f2c2009da343edb4bb16fa67 36508 ext-zsh_1.0.1.orig.tar.xz
  eabe2fb246f947e1ade06fa41a140e306ee8460a24f01e3954668873b506fa45 796 ext-zsh_1.0.1-3.debian.tar.xz
 Files:
- 349035bcad626415fb5bf0c022ab6c1f 36512 ext-zsh_1.0.1.orig.tar.xz
+ f8b2c871f37637695fa7feaea86dc41d 36508 ext-zsh_1.0.1.orig.tar.xz
  d0ea4abbf9884e396d58ef6be7c1bed3 796 ext-zsh_1.0.1-3.debian.tar.xz
