@@ -3,14 +3,14 @@ Source: ext-zsh
 Architecture: source
 Version: 1.0.1-3
 Checksums-Md5:
- 248a8b654f9b79a19795dd9cae1e808c 1002 ext-zsh_1.0.1-3.dsc
+ 1e94f262e93354462a785be48178d81f 1002 ext-zsh_1.0.1-3.dsc
 Checksums-Sha1:
- 6977ac3a362d7f3230c556fe8d2590d8a71584af 1002 ext-zsh_1.0.1-3.dsc
+ 63683c5a3714a3a6e108e4b3fa4e51883bac88b5 1002 ext-zsh_1.0.1-3.dsc
 Checksums-Sha256:
- 22bccf504d09e9f0fd88bcf0c361b7ce3c25d237410bc6b2a566a706234861dc 1002 ext-zsh_1.0.1-3.dsc
+ ed09eb8ec62d369ce73fe24cf6cbe98d687c1c00429278f641cb606e9085485f 1002 ext-zsh_1.0.1-3.dsc
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Tue, 14 Sep 2021 10:14:13 +0000
+Build-Date: Tue, 14 Sep 2021 13:48:17 +0000
 Installed-Build-Depends:
  autoconf (= 2.69-14),
  automake (= 1:1.16.3-2),
