@@ -13,11 +13,11 @@ Build-Depends: debhelper (>= 13), debhelper-compat (= 13)
 Package-List:
  ext-zsh deb admin optional arch=all
 Checksums-Sha1:
- 340eb6e169c709c90248000a4da33a8b45cef237 36508 ext-zsh_1.0.1.orig.tar.xz
- bda29411804cd677c2a85dad67f0b7163cdcb616 796 ext-zsh_1.0.1-3.debian.tar.xz
+ 01acb2b937101f4eaf6b5ac6d0551113317f97c4 36500 ext-zsh_1.0.1.orig.tar.xz
+ 7677bf75c6258f77b4e2bc83fdcc2b50c625f197 784 ext-zsh_1.0.1-3.debian.tar.xz
 Checksums-Sha256:
- 97638569f61c7190565b0db54718baade6982c42f2c2009da343edb4bb16fa67 36508 ext-zsh_1.0.1.orig.tar.xz
- eabe2fb246f947e1ade06fa41a140e306ee8460a24f01e3954668873b506fa45 796 ext-zsh_1.0.1-3.debian.tar.xz
+ 5b9aad710c857ee5055ef99b304dec54f92a1cedb19f51517135682b4b44dfb2 36500 ext-zsh_1.0.1.orig.tar.xz
+ f4a43e03f57ecfeaa0d4fc296efaf0f0d41d5030bfdf059edb2702ad24a2fc6c 784 ext-zsh_1.0.1-3.debian.tar.xz
 Files:
- f8b2c871f37637695fa7feaea86dc41d 36508 ext-zsh_1.0.1.orig.tar.xz
- d0ea4abbf9884e396d58ef6be7c1bed3 796 ext-zsh_1.0.1-3.debian.tar.xz
+ 2eef537e553ca944e71c60aa07a50870 36500 ext-zsh_1.0.1.orig.tar.xz
+ d1cb2cd80e0264c31bf43f409d933940 784 ext-zsh_1.0.1-3.debian.tar.xz
