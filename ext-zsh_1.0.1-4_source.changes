@@ -1,0 +1,25 @@
+Format: 1.8
+Date: Tue, 28 Sep 2021 16:00:00 +0300
+Source: ext-zsh
+Architecture: source
+Version: 1.0.1-4
+Distribution: unstable
+Urgency: medium
+Maintainer: Package Store <kitsune.solar@gmail.com>
+Changed-By: Package Store <kitsune.solar@gmail.com>
+Changes:
+ ext-zsh (1.0.1-4) unstable; urgency=medium
+ .
+   * UPD: Change "Section" in "control" file.
+Checksums-Sha1:
+ f299230c4196be7d8266b27ab78e2b3ed12af7dc 1003 ext-zsh_1.0.1-4.dsc
+ 4ff0f1f18005515e856c89f4df37b1f588999960 816 ext-zsh_1.0.1-4.debian.tar.xz
+ b0f687ff6e5cda017a0c5799d6c8fa50699d9ab4 4391 ext-zsh_1.0.1-4_source.buildinfo
+Checksums-Sha256:
+ 36a62118e072528b326b17931988d36d1d5be14b2bb75af9b8be582846007b4f 1003 ext-zsh_1.0.1-4.dsc
+ fcf410b444a37dedd06a559ca2e3440f324f6183b092b6933c22097d765118e8 816 ext-zsh_1.0.1-4.debian.tar.xz
+ 6e66bb144ce94f3b36960564076b61c56085f8c1917de0b9906da9ff6d357432 4391 ext-zsh_1.0.1-4_source.buildinfo
+Files:
+ ad67824a9f726b726a25f01040abb0f0 1003 shells optional ext-zsh_1.0.1-4.dsc
+ 672130fa5b9ed209f34244f5e9fd06d4 816 shells optional ext-zsh_1.0.1-4.debian.tar.xz
+ 6617f5b964b99e6545e075d109afd899 4391 shells optional ext-zsh_1.0.1-4_source.buildinfo
